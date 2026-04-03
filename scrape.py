@@ -6,6 +6,13 @@
 # create repository in git hub
 # copy paste git code from github
 
+###########
+# 1. change the code
+# 2. git add .
+# 3. git commit -m "your message"
+# 4. git push origin main
+##########
+
 
 git config --global user.name "Aarohi Parajuli"
 git config --global user.email "aarohiparajuli7@gmail.com"
