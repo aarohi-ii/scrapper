@@ -1,3 +1,12 @@
+# git init
+# git status - if u want to check what are the statusof files
+# git diff- if you want to check what are the changes
+# git add.
+# git commit -m "your message"
+# create repository in git hub
+# copy paste git code from github
+
+
 git config --global user.name "Aarohi Parajuli"
 git config --global user.email "aarohiparajuli7@gmail.com"
 
